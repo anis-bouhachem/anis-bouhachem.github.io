@@ -1,0 +1,23 @@
+{
+  "name": "anis-bouhachem.github.io",
+  "description": "My personal website;",
+  "main": "index.js",
+  "authors": [
+    "Anis Bouhachem <leprinceanis@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Anis",
+    "Bouhachem",
+    "développeur",
+    "frontend",
+    "angularjs",
+    "javascript",
+    "nodejs"
+  ],
+  "homepage": "https://github.com/anis-bouhachem/anis-bouhachem.github.io",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.5"
+  }
+}
